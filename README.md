@@ -1,4 +1,4 @@
-# tusd
+# Integros tusd
 
 <img alt="Tus logo" src="https://github.com/tus/tus.io/blob/master/assets/img/tus1.png?raw=true" width="30%" align="right" />
 
